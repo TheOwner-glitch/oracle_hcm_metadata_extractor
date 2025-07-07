@@ -1,0 +1,21 @@
+# Environment
+.env
+.env*
+
+# OS/IDE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+oci-venv
+oci-venv/
+
+#Metadata
+tables_metadata*
+views_metadata*
+
+#Misc
+toc.js
+oracle_links*
