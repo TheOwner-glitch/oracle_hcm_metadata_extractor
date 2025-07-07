@@ -76,7 +76,7 @@ python oracle_hcm_cli_tool.py --toc toc.js --csv oracle_links.csv --json oracle_
 > This tool and blog post are independently created for research, education, and internal productivity enhancement by an Oracle customer.
 > All references to Oracle® products and documentation are made strictly for educational and interoperability purposes.  
 > Oracle, Java, and MySQL are registered trademarks of Oracle and/or its affiliates.  
-> This tool is **not affiliated with, endorsed by, or sponsored by Oracle Corporation**.  
+> This tool is **not affiliated with or sponsored by Oracle Corporation**.  
 >  
 > Metadata shown (such as table/view names, columns, and SQL definitions) are extracted from publicly accessible Oracle documentation for the purpose of learning, automation, and support.  
 > No proprietary Oracle documentation or content is redistributed or republished in full.  
